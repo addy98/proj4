@@ -1,0 +1,882 @@
+[
+	{
+		"country": "Angola",
+		"players": [
+			{
+				"country": "Angola",
+				"fname": "Bruno",
+				"lname": "Fernando",
+				"team": "Atlanta Hawks"
+			}
+		],
+		"flag": "/flags/angola.jpg",
+		"Lat": "-12.341474",
+		"Lng": "17.476980"
+	},
+	{
+		"country": "Australia",
+		"players": [
+			{
+				"country": "Australia",
+				"fname": "Aron",
+				"lname": "Baynes",
+				"team": "Phoenix Suns"
+			},{
+				"country": "Australia",
+				"fname": "Jonah",
+				"lname": "Bolden",
+				"team": "Philadelphia 76ers"
+			},{
+				"country": "Australia",
+				"fname": "Ryan",
+				"lname": "Broekhoff",
+				"team": "Dallas Mavericks"
+			},{
+				"country": "Australia",
+				"fname": "Matthew",
+				"lname": "Dellavedova",
+				"team": "Cleveland Cavaliers"
+			},{
+				"country": "Australia",
+				"fname": "Dante",
+				"lname": "Exum",
+				"team": "Utah Jazz"
+			},{
+				"country": "Australia",
+				"fname": "Joe",
+				"lname": "Ingles",
+				"team": "Utah Jazz"
+			},{
+				"country": "Australia",
+				"fname": "Kyrie",
+				"lname": "Irving",
+				"team": "Brooklyn Nets"
+			},{
+				"country": "Australia",
+				"fname": "Patty",
+				"lname": "Mills",
+				"team": "San Antonio Spurs"
+			},{
+				"country": "Australia",
+				"fname": "Ben",
+				"lname": "Simmons",
+				"team": "Philadelphia 76ers"
+			}
+		],
+		"flag": "/flags/australia.jpg",
+		"Lat": "-24.890938",
+		"Lng": "133.556079"
+	},
+	{
+		"country": "Austria",
+		"players": [
+			{
+				"country": "Austria",
+				"fname": "Jakob",
+				"lname": "Poeltl",
+				"team": "San Antonio Spurs"
+			}
+		],
+		"flag": "/flags/austria.jpg",
+		"Lat": "47.570944",
+		"Lng": "14.090947"
+	},
+	{
+		"country": "Bahamas",
+		"players": [
+			{
+				"country": "Bahamas",
+				"fname": "Buddy",
+				"lname": "Hield",
+				"team": "Sacramento Kings"
+			},{
+				"country": "Bahamas",
+				"fname": "Deandre",
+				"lname": "Ayton*",
+				"team": "Phoenix Suns"
+			}
+		],
+		"flag": "/flags/bahamas.jpg",
+		"Lat": "24.707848",
+		"Lng": "-78.046104"
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"players": [
+			{
+				"country": "Bosnia and Herzegovina",
+				"fname": "Dzanan",
+				"lname": "Musa",
+				"team": "Brooklyn Nets"
+			},{
+				"country": "Bosnia and Herzegovina",
+				"fname": "Jusuf",
+				"lname": "Nurkić",
+				"team": "Portland Trail Blazers"
+			}
+		],
+		"flag": "/flags/bosnia.jpg",
+		"Lat": "44.610690",
+		"Lng": "17.780766"
+	},
+	{
+		"country": "Brazil",
+		"players": [
+			{
+				"country": "Brazil",
+				"fname": "Bruno",
+				"lname": "Caboclo*",
+				"team": "Memphis Grizzlies"
+			},{
+				"country": "Brazil",
+				"fname": "Cristiano",
+				"lname": "Felicio",
+				"team": "Chicago Bulls"
+			},{
+				"country": "Brazil",
+				"fname": "Raul",
+				"lname": "Neto",
+				"team": "Philadelphia 76ers"
+			},{
+				"country": "Brazil",
+				"fname": "Nene",
+				"team": "Houston Rockets"
+			}
+		],
+		"flag": "/flags/brazil.jpg",
+		"Lat": "-8.006632",
+		"Lng": "-56.079143"
+	},
+	{
+		"country": "Cameroon",
+		"players": [
+			{
+				"country": "Cameroon",
+				"fname": "Joel",
+				"lname": "Embiid*",
+				"team": "Philadelphia 76ers"
+			},{
+				"country": "Cameroon",
+				"fname": "Pascal",
+				"lname": "Siakam*",
+				"team": "Toronto Raptors"
+			}
+		],
+		"flag": "/flags/cameroon.jpg",
+		"Lat": "5.666251",
+		"Lng": "12.452906"
+	},
+	{
+		"country": "Canada",
+		"players": [
+			{
+				"country": "Canada",
+				"fname": "Nickeil",
+				"lname": "Alexander-Walker",
+				"team": "New Orleans Pelicans"
+			},{
+				"country": "Canada",
+				"fname": "RJ",
+				"lname": "Barrett*",
+				"team": "New York Knicks"
+			},{
+				"country": "Canada",
+				"fname": "Khem",
+				"lname": "Birch",
+				"team": "Orlando Magic"
+			},{
+				"country": "Canada",
+				"fname": "Chris",
+				"lname": "Boucher",
+				"team": "Toronto Raptors"
+			},{
+				"country": "Canada",
+				"fname": "Ignas",
+				"lname": "Brazdeikis*",
+				"team": "New York Knicks"
+			},{
+				"country": "Canada",
+				"fname": "Dillon",
+				"lname": "Brooks",
+				"team": "Memphis Grizzlies"
+			},{
+				"country": "Canada",
+				"fname": "Brandon",
+				"lname": "Clarke",
+				"team": "Memphis Grizzlies"
+			},{
+				"country": "Canada",
+				"fname": "Cory",
+				"lname": "Joseph",
+				"team": "Sacramento Kings"
+			},{
+				"country": "Canada",
+				"fname": "Mfiondu",
+				"lname": "Kabengele",
+				"team": "LA Clippers"
+			},{
+				"country": "Canada",
+				"fname": "Trey",
+				"lname": "Lyles",
+				"team": "San Antonio Spurs"
+			},{
+				"country": "Canada",
+				"fname": "Jamal",
+				"lname": "Murray*",
+				"team": "Denver Nuggets"
+			},{
+				"country": "Canada",
+				"fname": "Kelly",
+				"lname": "Olynyk*",
+				"team": "Miami Heat"
+			},{
+				"country": "Canada",
+				"fname": "Dwight",
+				"lname": "Powell",
+				"team": "Dallas Mavericks"
+			},{
+				"country": "Canada",
+				"fname": "Tristan",
+				"lname": "Thompson",
+				"team": "Cleveland Cavaliers"
+			},{
+				"country": "Canada",
+				"fname": "Andrew",
+				"lname": "Wiggins",
+				"team": "Minnesota Timberwolves"
+			},{
+				"country": "Canada",
+				"fname": "Shai",
+				"lname": "Gilgeous-Alexander*",
+				"team": "Oklahoma City Thunder"
+			}
+		],
+		"flag": "/flags/canada.jpg",
+		"Lat": "52.445994",
+		"Lng": "-88.870589"
+	},
+	{
+		"country": "Croatia",
+		"players": [
+			{
+				"country": "Croatia",
+				"fname": "Luka",
+				"lname": "Šamanić*",
+				"team": "San Antonio Spurs"
+			},{
+				"country": "Croatia",
+				"fname": "Dragan",
+				"lname": "Bender*",
+				"team": "Milwaukee Bucks"
+			},{
+				"country": "Croatia",
+				"fname": "Bojan",
+				"lname": "Bogdanović",
+				"team": "Utah Jazz"
+			},{
+				"country": "Croatia",
+				"fname": "Mario",
+				"lname": "Hezonja",
+				"team": "Portland Trail Blazers"
+			},{
+				"country": "Croatia",
+				"fname": "Dario",
+				"lname": "Šarić*",
+				"team": "Phoenix Suns"
+			},{
+				"country": "Croatia",
+				"fname": "Ante",
+				"lname": "Žižić*",
+				"team": "Cleveland Cavaliers"
+			},{
+				"country": "Croatia",
+				"fname": "Ivica",
+				"lname": "Zubac",
+				"team": "LA Clippers"
+			}
+		],
+		"flag": "/flags/croatia.jpg",
+		"Lat": "45.080149",
+		"Lng": "15.162924"
+	},
+	{
+		"country": "Czech Republic",
+		"players": [
+			{
+				"country": "Czech Republic",
+				"fname": "Tomáš",
+				"lname": "Satoranský*",
+				"team": "Chicago Bulls"
+			}
+		],
+		"flag": "/flags/czechia.jpg",
+		"Lat": "49.689809",
+		"Lng": "14.989776"
+	},
+	{
+		"country": "Democratic Republic of the Congo",
+		"players": [
+			{
+				"country": "Democratic Republic of the Congo",
+				"fname": "Bismack",
+				"lname": "Biyombo",
+				"team": "Charlotte Hornets"
+			},{
+				"country": "Democratic Republic of the Congo",
+				"fname": "Emmanuel",
+				"lname": "Mudiay",
+				"team": "Utah Jazz"
+			}
+		],
+		"flag": "/flags/dcongo.jpg",
+		"Lat": "-2.755005",
+		"Lng": "22.917302"
+	},
+	{
+		"country": "Dominican Republic",
+		"players": [
+			{
+				"country": "Dominican Republic",
+				"fname": "Al",
+				"lname": "Horford",
+				"team": "Philadelphia 76ers"
+			}
+		],
+		"flag": "/flags/dr.jpg",
+		"LatLng": "18.973342, -70.548337"
+	},
+	{
+		"country": "Egypt",
+		"players": [
+			{
+				"country": "Egypt",
+				"fname": "Abdel",
+				"lname": "Nader",
+				"team": "Oklahoma City Thunder"
+			}
+		],
+		"flag": "/flags/egypt.jpg",
+		"Lat": "26.638707",
+		"Lng": "30.248313"
+	},
+	{
+		"country": "Finland",
+		"players": [
+			{
+				"country": "Finland",
+				"fname": "Lauri",
+				"lname": "Markkanen*",
+				"team": "Chicago Bulls"
+			}
+		],
+		"flag": "/flags/finland.jpg",
+		"Lat": "62.653134",
+		"Lng": "26.050707"
+	},
+	{
+		"country": "France",
+		"players": [
+			{
+				"country": "France",
+				"fname": "Nicolas",
+				"lname": "Batum*",
+				"team": "Charlotte Hornets"
+			},{
+				"country": "France",
+				"fname": "Sekou",
+				"lname": "Doumbouya*",
+				"team": "Detroit Pistons"
+			},{
+				"country": "France",
+				"fname": "Evan",
+				"lname": "Fournier",
+				"team": "Orlando Magic"
+			},{
+				"country": "France",
+				"fname": "Rudy",
+				"lname": "Gobert",
+				"team": "Utah Jazz"
+			},{
+				"country": "France",
+				"fname": "Ian",
+				"lname": "Mahinmi",
+				"team": "Washington Wizards"
+			},{
+				"country": "France",
+				"fname": "Frank",
+				"lname": "Ntilikina*",
+				"team": "New York Knicks"
+			},{
+				"country": "France",
+				"fname": "Vincent",
+				"lname": "Poirier",
+				"team": "Boston Celtics"
+			},{
+				"country": "France",
+				"fname": "Élie",
+				"lname": "Okobo",
+				"team": "Phoenix Suns"
+			}
+		],
+		"flag": "/flags/france.jpg",
+		"Lat": "46.586258",
+		"Lng": "2.484505"
+	},
+	{
+		"country": "Georgia",
+		"players": [
+			{
+				"country": "Georgia",
+				"fname": "Goga",
+				"lname": "Bitadze*",
+				"team": "Indiana Pacers"
+			}
+		],
+		"flag": "/flags/georgia.jpg",
+		"Lat": "42.144336",
+		"Lng": "43.311480"
+	},
+	{
+		"country": "Germany",
+		"players": [
+			{
+				"country": "Germany",
+				"fname": "Isaac",
+				"lname": "Bonga*",
+				"team": "Washington Wizards"
+			},{
+				"country": "Germany",
+				"fname": "Maxi",
+				"lname": "Kleber",
+				"team": "Dallas Mavericks"
+			},{
+				"country": "Germany",
+				"fname": "Dennis",
+				"lname": "Schröder",
+				"team": "Oklahoma City Thunder"
+			},{
+				"country": "Germany",
+				"fname": "Daniel",
+				"lname": "Theis",
+				"team": "Boston Celtics"
+			},{
+				"country": "Germany",
+				"fname": "Moritz",
+				"lname": "Wagner",
+				"team": "Washington Wizards"
+			}
+		],
+		"flag": "/flags/germany.jpg",
+		"Lat": "51.062273",
+		"Lng": "10.405468"
+	},
+	{
+		"country": "Greece",
+		"players": [
+			{
+				"country": "Greece",
+				"fname": "Giannis",
+				"lname": "Antetokounmpo",
+				"team": "Milwaukee Bucks"
+			},{
+				"country": "Greece",
+				"fname": "Thanasis",
+				"lname": "Antetokounmpo",
+				"team": "Milwaukee Bucks"
+			}
+		],
+		"flag": "/flags/greece.jpg",
+		"Lat": "39.448131",
+		"Lng": "22.120558"
+	},
+	{
+		"country": "Haiti",
+		"players": [
+			{
+				"country": "Haiti",
+				"fname": "Skal",
+				"lname": "Labissière",
+				"team": "Portland Trail Blazers"
+			}
+		],
+		"flag": "/flags/haiti.jpg",
+		"Lat": "18.904223",
+		"Lng": "-72.473811"
+	},
+	{
+		"country": "Italy",
+		"players": [
+			{
+				"country": "Italy",
+				"fname": "Marco",
+				"lname": "Belinelli*",
+				"team": "San Antonio Spurs"
+			},{
+				"country": "Italy",
+				"fname": "Danilo",
+				"lname": "Gallinari*",
+				"team": "Oklahoma City Thunder"
+			},{
+				"country": "Italy",
+				"fname": "Nicolò",
+				"lname": "Melli",
+				"team": "New Orleans Pelicans"
+			}
+		],
+		"flag": "/flags/italy.jpg",
+		"Lat": "43.062190",
+		"Lng": "12.243905"
+	},
+	{
+		"country": "Japan",
+		"players": [
+			{
+				"country": "Japan",
+				"fname": "Rui",
+				"lname": "Hachimura*",
+				"team": "Washington Wizards"
+			}
+		],
+		"flag": "/flags/japan.jpg",
+		"LatLng": "35.853592",
+		"Lng": "138.071039"
+	},
+	{
+		"country": "Latvia",
+		"players": [
+			{
+				"country": "Latvia",
+				"fname": "Davis",
+				"lname": "Bertans",
+				"team": "Washington Wizards"
+			},{
+				"country": "Latvia",
+				"fname": "Kristaps",
+				"lname": "Porziņģis",
+				"team": "Dallas Mavericks"
+			},{
+				"country": "Latvia",
+				"fname": "Rodions",
+				"lname": "Kurucs",
+				"team": "Brooklyn Nets"
+			}
+		],
+		"flag": "/flags/latvia.jpg",
+		"Lat": "56.890104",
+		"Lng": "25.388705"
+	},
+	{
+		"country": "Lithuania",
+		"players": [
+			{
+				"country": "Lithuania",
+				"fname": "Domantas",
+				"lname": "Sabonis",
+				"team": "Indiana Pacers"
+			},{
+				"country": "Lithuania",
+				"fname": "Jonas",
+				"lname": "Valančiūnas*",
+				"team": "Memphis Grizzlies"
+			}
+		],
+		"flag": "/flags/lithuania.jpg",
+		"Lat": "55.257957",
+		"Lng": "23.514146"
+	},
+	{
+		"country": "Mali",
+		"players": [
+			{
+				"country": "Mali",
+				"fname": "Cheick",
+				"lname": "Diallo",
+				"team": "Phoenix Suns"
+			}
+		],
+		"flag": "/flags/mali.jpg",
+		"Lat": "16.865434",
+		"Lng": "-3.887083"
+	},
+	{
+		"country": "Montenegro",
+		"players": [
+			{
+				"country": "Montenegro",
+				"fname": "Nikola",
+				"lname": "Vučević",
+				"team": "Orlando Magic"
+			}
+		],
+		"flag": "/flags/montenegro.jpg",
+		"Lat": "42.777522",
+		"Lng": "19.200519"
+	},
+	{
+		"country": "New Zealand",
+		"players": [
+			{
+				"country": "New Zealand",
+				"fname": "Steven",
+				"lname": "Adams",
+				"team": "Oklahoma City Thunder"
+			}
+		],
+		"flag": "/flags/newz.jpg",
+		"Lat": "-43.696925",
+		"Lng": "171.024523"
+	},
+	{
+		"country": "Nigeria",
+		"players": [
+			{
+				"country": "Nigeria",
+				"fname": "Josh",
+				"lname": "Okogie",
+				"team": "Minnesota Timberwolves"
+			}
+		],
+		"flag": "/flags/nigeria.jpg",
+		"Lat": "8.006912",
+		"Lng": "7.012770"
+	},
+	{
+		"country": "Puerto Rico",
+		"players": [
+			{
+				"country": "Puerto Rico",
+				"fname": "J.J.",
+				"lname": "Barea",
+				"team": "Dallas Mavericks"
+			}
+		],
+		"flag": "/flags/puertorico.jpg",
+		"Lat": "18.220882",
+		"Lng": "-66.460339"
+	},
+	{
+		"country": "Republic of the Congo",
+		"players": [
+			{
+				"country": "Republic of the Congo",
+				"fname": "Serge",
+				"lname": "Ibaka",
+				"team": "Toronto Raptors"
+			}
+		],
+		"flag": "/flags/rcongo.jpg",
+		"Lat": "-1.790492",
+		"Lng": "15.328648"
+	},
+	{
+		"country": "Senegal",
+		"players": [
+			{
+				"country": "Senegal",
+				"fname": "Gorgui",
+				"lname": "Dieng*",
+				"team": "Minnesota Timberwolves"
+			}
+		],
+		"flag": "/flags/senegal.jpg",
+		"Lat": "14.298020",
+		"Lng": "-13.454739"
+	},
+	{
+		"country": "Serbia",
+		"players": [
+			{
+				"country": "Serbia",
+				"fname": "Nemanja",
+				"lname": "Bjelica",
+				"team": "Sacramento Kings"
+			},{
+				"country": "Serbia",
+				"fname": "Bogdan",
+				"lname": "Bogdanović",
+				"team": "Sacramento Kings"
+			},{
+				"country": "Serbia",
+				"fname": "Marko",
+				"lname": "Gudurić",
+				"team": "Memphis Grizzlies"
+			},{
+				"country": "Serbia",
+				"fname": "Nikola",
+				"lname": "Jokić",
+				"team": "Denver Nuggets"
+			},{
+				"country": "Serbia",
+				"fname": "Boban",
+				"lname": "Marjanović",
+				"team": "Dallas Mavericks"
+			},{
+				"country": "Serbia",
+				"fname": "Alen",
+				"lname": "Smailagić",
+				"team": "Golden State Warriors"
+			}
+		],
+		"flag": "/flags/serbia.jpg",
+		"Lat": "44.377578",
+		"Lng": "20.755508"
+	},
+	{
+		"country": "Slovenia",
+		"players": [
+			{
+				"country": "Slovenia",
+				"fname": "Vlatko",
+				"lname": "Čančar",
+				"team": "Denver Nuggets"
+			},{
+				"country": "Slovenia",
+				"fname": "Goran",
+				"lname": "Dragić",
+				"team": "Miami Heat"
+			},{
+				"country": "Slovenia",
+				"fname": "Luka",
+				"lname": "Dončić",
+				"team": "Dallas Mavericks"
+			}
+		],
+		"flag": "/flags/slovenia.jpg",
+		"Lat": "46.067596",
+		"Lng": "14.822196"
+	},
+	{
+		"country": "South Sudan",
+		"players": [
+			{
+				"country": "South Sudan",
+				"fname": "Thon",
+				"lname": "Maker*",
+				"team": "Detroit Pistons"
+			},{
+				"country": "South Sudan",
+				"fname": "Wenyen",
+				"lname": "Gabriel",
+				"team": "Sacramento Kings"
+			}
+		],
+		"flag": "/flags/southsudan.jpg",
+		"Lat": "6.661771",
+		"Lng": "30.315289"
+	},
+	{
+		"country": "Spain",
+		"players": [
+			{
+				"country": "Spain",
+				"fname": "Pau",
+				"lname": "Gasol",
+				"team": "Portland Trail Blazers"
+			},{
+				"country": "Spain",
+				"fname": "Marc",
+				"lname": "Gasol*",
+				"team": "Toronto Raptors"
+			},{
+				"country": "Spain",
+				"fname": "Juancho",
+				"lname": "Hernangómez",
+				"team": "Denver Nuggets"
+			},{
+				"country": "Spain",
+				"fname": "Willy",
+				"lname": "Hernangómez*",
+				"team": "Charlotte Hornets"
+			},{
+				"country": "Spain",
+				"fname": "Ricky",
+				"lname": "Rubio",
+				"team": "Phoenix Suns"
+			}
+		],
+		"flag": "/flags/spain.jpg",
+		"Lat": "40.318024",
+		"Lng": "-2.739832"
+	},
+	{
+		"country": "Switzerland",
+		"players": [
+			{
+				"country": "Switzerland",
+				"fname": "Clint",
+				"lname": "Capela",
+				"team": "Houston Rockets"
+			},{
+				"country": "Switzerland",
+				"fname": "Thabo",
+				"lname": "Sefolosha",
+				"team": "Houston Rockets"
+			}
+		],
+		"flag": "/flags/switzerland.jpg",
+		"Lat": "47.111395",
+		"Lng": "8.047902"
+	},
+	{
+		"country": "Turkey",
+		"players": [
+			{
+				"country": "Turkey",
+				"fname": "Ersan",
+				"lname": "Ilyasova",
+				"team": "Milwaukee Bucks"
+			},{
+				"country": "Turkey",
+				"fname": "Enes",
+				"lname": "Kanter*",
+				"team": "Boston Celtics"
+			},{
+				"country": "Turkey",
+				"fname": "Furkan",
+				"lname": "Korkmaz",
+				"team": "Philadelphia 76ers"
+			},{
+				"country": "Turkey",
+				"fname": "Cedi",
+				"lname": "Osman",
+				"team": "Cleveland Cavaliers"
+			}
+		],
+		"flag": "/flags/turkey.jpg",
+		"Lat": "38.830476",
+		"Lng": "32.707506"
+	},
+	{
+		"country": "Ukraine",
+		"players": [
+			{
+				"country": "Ukraine",
+				"fname": "Alex",
+				"lname": "Len",
+				"team": "Atlanta Hawks"
+			},{
+				"country": "Ukraine",
+				"fname": "Svi",
+				"lname": "Mykhailiuk",
+				"team": "Detroit Pistons"
+			}
+		],
+		"flag": "/flags/ukraine.jpg",
+		"Lat": "49.534160",
+		"Lng": "31.041160"
+	},
+	{
+		"country": "United Kingdom",
+		"players": [
+			{
+				"country": "United Kingdom",
+				"fname": "OG",
+				"lname": "Anunoby",
+				"team": "Toronto Raptors"
+			}
+		],
+		"flag": "/flags/unitedkingdom.jpg",
+		"Lat": "53.045745",
+		"Lng": "-1.173439"
+	}
+]

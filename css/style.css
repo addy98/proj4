@@ -1,0 +1,109 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+    height: 100%;
+    width: 70%;
+    float: right;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin: 30px;
+}
+
+.subhead {
+    margin: 30px;
+}
+
+.break {
+    width: 100%;
+    height: 1px;
+    background-color: #ddd;
+}
+
+.nav-item {
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    transition: 0.2s;
+}
+
+.nav-item:hover {
+    background-color: #ddd;
+}
+
+.nav-link {
+    position: relative;
+    right: 8px;
+    top: 2px;
+}
+
+#list {
+    height: 100%;
+    width: 30%;
+    float: left;
+    overflow: scroll;
+}
+
+#flags {
+    padding: 30px;
+}
+
+.country {
+    text-align: center;
+    margin: 1em;
+}
+
+.flag {
+    height: 150px;
+    width: 250px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.flag:hover {
+    opacity: 0.5;
+}
+
+.btn {
+    margin: 30px;
+}
+
+.material-icons {
+    position: relative;
+    top: 6px;
+}
+
+.back {
+    position: relative;
+    bottom: 3px;
+}
+
+.col {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+@media screen and (max-width: 1000px) {
+    #list {
+        height: 40%;
+        width: 100%;
+        float: none;
+        overflow: scroll;
+    }
+    #map {
+        height: 60%;
+        width: 100%;
+        float: none;
+    }
+}
