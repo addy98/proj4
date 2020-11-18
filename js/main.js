@@ -79,7 +79,7 @@ async function loadData() {
           );
           
           for (let j=0; j<result[i].players.length; j++) {
-            $("#new").replaceWith(
+            $("#table").append(
               '<tr>'+
                 '<td>'+result[i].players[j].fname+' '+result[i].players[j].lname+'</td>'+
                 '<td>'+result[i].players[j].team+'</td>'+
@@ -99,16 +99,6 @@ async function loadData() {
             clicked = false;
           });
           clicked = true;
-        } 
-        if (clicked == true) {
-          for (let j=0; j<result[i].players.length; j++) {
-            $("#new").replaceWith(
-              '<tr>'+
-                '<td>'+result[i].players[j].fname+' '+result[i].players[j].lname+'</td>'+
-                '<td>'+result[i].players[j].team+'</td>'+
-              '</tr>'
-            );
-          }
         }
       }
 
